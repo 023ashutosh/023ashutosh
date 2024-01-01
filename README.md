@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ashutosh</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 
-- 🌱 I’m currently learning **MERN Stack + Next Js**
+- 🌱 I’m currently learning **React Js + Next Js**
 
-- 💬 Ask me about **Python, Js, C++**
+- 💬 Ask me about **Js, Python, AI, C++**
 
 - 📫 How to reach me **023.ashutosh@gmail.com**
 
