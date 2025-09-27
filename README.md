@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FFFFFF&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ashutosh+Pratap+Singh" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=34B27B&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ashutosh+Pratap+Singh" alt="Typing SVG" /></a>
 </h1>
 
 <p align="center">
@@ -12,13 +12,13 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/023ashutosh" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-34B27B?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://ashutosh.sleeek.in" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-D14836?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-1F2937?style=for-the-badge&logo=google-chrome&logoColor=34B27B" alt="Portfolio"/>
   </a>
   <a href="https://medium.com/@023.ashutosh" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+    <img src="https://img.shields.io/badge/Medium-20B170?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   </a>
 </p>
 
@@ -28,7 +28,7 @@
 
 <table>
   <tr>
-    <td align="center"><strong>Frontend</strong></td>
+    <td align="center" style="color: #34B27B;"><strong>Frontend</strong></td>
     <td>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
@@ -38,7 +38,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><strong>Backend</strong></td>
+    <td align="center" style="color: #34B27B;"><strong>Backend</strong></td>
     <td>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
@@ -47,7 +47,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><strong>Databases & ORMs</strong></td>
+    <td align="center" style="color: #34B27B;"><strong>Databases & ORMs</strong></td>
     <td>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
@@ -57,15 +57,15 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><strong>AI/ML</strong></td>
+    <td align="center" style="color: #34B27B;"><strong>AI/ML</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
-      <img src="https://img.shields.io/badge/LangChain-00865D?style=for-the-badge" alt="LangChain"/>
-      <img src="https://img.shields.io/badge/IBM%20Watson-252F78?style=for-the-badge" alt="IBM Watson"/>
+      <img src="https://img.shields.io/badge/OpenAI-34B27B?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+      <img src="https://img.shields.io/badge/LangChain-20B170?style=for-the-badge&logoColor=white" alt="LangChain"/>
+      <img src="https://img.shields.io/badge/IBM%20Watson-1F2937?style=for-the-badge&logoColor=34B27B" alt="IBM Watson"/>
     </td>
   </tr>
   <tr>
-    <td align="center"><strong>Cloud & Deployment</strong></td>
+    <td align="center" style="color: #34B27B;"><strong>Cloud & Deployment</strong></td>
     <td>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original-wordmark.svg" alt="aws" width="40" height="40"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original-wordmark.svg" alt="azure" width="40" height="40"/>
@@ -79,18 +79,91 @@
 
 ---
 
+
 ### 🚀 Selected Projects
 
--   **US-based EdTech Platform (LMS)**: Engineered a SaaS-based LMS for 400+ students, automating enrollment and verification to eliminate ~90% of manual work.
--   **AI Graphic Content & SMM Platform**: Automated content creation from ideation to publishing, reducing draft turnaround from 1 day to under 3 minutes using an agentic workflow.
--   **Slotifix (Productivity SaaS)**: Built a full-scale appointment scheduling platform for healthcare/retail, automating ~80% of manual reception tasks with real-time tracking and Google Calendar/Zoom integration.
--   **Sleeek (AI B2B Support Platform)**: Developed an AI assistant that automates customer query resolution using RAG, reducing first-response latency from hours to <1 minute and improving resolution efficiency by ~80%.
+<table>
+<tr>
+<td width="50%">
+
+<div style="background: linear-gradient(135deg, #F8F9FA 0%, #E5F4ED 100%); padding: 20px; border-left: 4px solid #34B27B; margin: 10px;">
+
+**🎓 US-based EdTech Platform (LMS)**
+- Engineered a SaaS-based LMS for 400+ students and 50+ teachers, automating enrollment and verification to eliminate ~90% of manual work
+- Built with Next.js, PostgreSQL, and Supabase for real-time user management
+
+</div>
+
+</td>
+<td width="50%">
+
+<div style="background: linear-gradient(135deg, #F8F9FA 0%, #E5F4ED 100%); padding: 20px; border-left: 4px solid #34B27B; margin: 10px;">
+
+**🤖 AI Graphic Content & SMM Platform** 
+- Automated content creation from ideation to publishing, reducing draft turnaround from 1 day to under 3 minutes using an agentic workflow
+- Integrated OpenAI APIs and LangChain for intelligent content generation
+
+</div>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+<div style="background: linear-gradient(135deg, #F8F9FA 0%, #E5F4ED 100%); padding: 20px; border-left: 4px solid #34B27B; margin: 10px;">
+
+**📅 Appointment Booking Platform (Productivity SaaS)**
+- Built a full-scale appointment scheduling platform for healthcare/retail, automating ~80% of manual reception tasks
+- Features real-time tracking and Google Calendar/Zoom integration with TypeScript and Prisma
+
+</div>
+
+</td>
+<td width="50%">
+
+<div style="background: linear-gradient(135deg, #F8F9FA 0%, #E5F4ED 100%); padding: 20px; border-left: 4px solid #34B27B; margin: 10px;">
+
+**💬 Sleeek (AI B2B Customer Support Platform)**
+- Developed an AI assistant that automates customer query resolution using RAG and LLMs like openai and gemini
+- Reduced first-response latency from hours to <1 minute and improved resolution efficiency by ~80%
+
+</div>
+
+</td>
+</tr>
+</table>
+
+
 
 ---
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=023ashutosh&show_icons=true&theme=tokyonight&rank_icon=github" alt="ashutosh's github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=023ashutosh&layout=compact&theme=tokyonight" alt="ashutosh's top languages" />
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=023ashutosh&show_icons=true&theme=transparent&title_color=34B27B&text_color=1F2937&icon_color=34B27B&bg_color=00000000&border_color=34B27B&rank_icon=github&card_width=400" alt="ashutosh's github stats" width="400" height="200"/>
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=023ashutosh&layout=compact&theme=transparent&title_color=34B27B&text_color=1F2937&bg_color=00000000&border_color=34B27B&card_width=400&langs_count=8" alt="ashutosh's top languages" width="400" height="200"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=023ashutosh&bg_color=F8F9FA&color=1F2937&line=34B27B&point=20B170&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph"/>
+</div>
+
+---
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=023ashutosh&theme=flat&no-bg=true&no-frame=true&column=4&margin-w=15&title=Stars,Followers,Commits,Repositories&color=34B27B" alt="trophy"/>
+  </a>
+</div>
+
+---
